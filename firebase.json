@@ -1,0 +1,13 @@
+{
+  "hosting": {
+    "target": "overprint",
+    "public": ".",
+    "ignore": [
+      "firebase.json",
+      ".firebaserc",
+      ".gitignore",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
